@@ -1,0 +1,23 @@
+{
+  "name": "hello-from-santos-workers",
+  "version": "1.0.0",
+  "description": "some test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieldocs/teste-npm.git"
+  },
+  "keywords": [
+    "santos",
+    "workers"
+  ],
+  "author": "santos.workers <santosworkers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrieldocs/teste-npm/issues"
+  },
+  "homepage": "https://github.com/gabrieldocs/teste-npm#readme"
+}
